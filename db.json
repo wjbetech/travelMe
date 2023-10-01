@@ -1,0 +1,64 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "title": "2 Nights in Tokyo",
+      "price": "$400",
+      "description": "Weekend trip to see the capital city of Japan"
+    },
+    {
+      "id": 2,
+      "title": "1 Week in Sapporo",
+      "price": "$900",
+      "description": "See the snowy peaks of Japan's prettiest city"
+    },
+    {
+      "id": 3,
+      "title": "3 Nights in Osaka",
+      "price": "$325",
+      "description": "See the pristine Golden Castle and more in Osaka"
+    },
+    {
+      "id": 4,
+      "title": "1 Week Tropical Bali Escape",
+      "price": "$1300",
+      "description": "Relax on the pristine beaches of a tropical paradise"
+    },
+    {
+      "id": 5,
+      "title": "5 Days Skiing in France",
+      "price": "$1100",
+      "description": "Hit the slopes and enjoy winter sports in the breathtaking Alps"
+    },
+    {
+      "id": 6,
+      "title": "1 Week Exploration in India",
+      "price": "$950",
+      "description": "Discover the rich cultural heritage of India through its landmarks and traditions"
+    },
+    {
+      "id": 7,
+      "title": "2 Week Med Cruise",
+      "price": "$2100",
+      "description": "An unforgettable two weeks cruising Europe's coastline, tasting the best of the Med"
+    },
+    {
+      "id": 8,
+      "title": "1 Week Jungle Trek in Costa Rica",
+      "price": "$1200",
+      "description": "Embark on an adventurous jungle trek in Costa Rica's lush rainforests."
+    },
+    {
+      "id": 9,
+      "title": "5 Day Historic Tour of Athens",
+      "price": "$850",
+      "description": "Explore the ancient history of Athens and its iconic landmarks."
+    },
+    {
+      "id": 10,
+      "title": "2 Week Cruise of Norwegian Fjords",
+      "price": "$1400",
+      "description": "Sail through the stunning Norwegian fjords and witness their natural beauty."
+    }
+  ]
+}
