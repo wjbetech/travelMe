@@ -4,61 +4,71 @@
       "id": 1,
       "title": "2 Nights in Tokyo",
       "price": "$400",
-      "description": "Weekend trip to see the capital city of Japan"
+      "description": "Weekend trip to see the capital city of Japan",
+      "location": "Asia"
     },
     {
       "id": 2,
       "title": "1 Week in Sapporo",
       "price": "$900",
-      "description": "See the snowy peaks of Japan's prettiest city"
+      "description": "See the snowy peaks of Japan's prettiest city",
+      "location": "Asia"
     },
     {
       "id": 3,
       "title": "3 Nights in Osaka",
       "price": "$325",
-      "description": "See the pristine Golden Castle and more in Osaka"
+      "description": "See the pristine Golden Castle and more in Osaka",
+      "location": "Asia"
     },
     {
       "id": 4,
       "title": "1 Week Tropical Bali Escape",
       "price": "$1300",
-      "description": "Relax on the pristine beaches of a tropical paradise"
+      "description": "Relax on the pristine beaches of a tropical paradise",
+      "location": "Asia"
     },
     {
       "id": 5,
       "title": "5 Days Skiing in France",
       "price": "$1100",
-      "description": "Hit the slopes and enjoy winter sports in the breathtaking Alps"
+      "description": "Hit the slopes and enjoy winter sports in the breathtaking Alps",
+      "location": "Europe"
     },
     {
       "id": 6,
       "title": "1 Week Exploration in India",
       "price": "$950",
-      "description": "Discover the rich cultural heritage of India through its landmarks and traditions"
+      "description": "Discover the rich cultural heritage of India through its landmarks and traditions",
+      "location": "Asia"
     },
     {
       "id": 7,
       "title": "2 Week Med Cruise",
       "price": "$2100",
-      "description": "An unforgettable two weeks cruising Europe's coastline, tasting the best of the Med"
+      "description": "An unforgettable two weeks cruising Europe's coastline, tasting the best of the Med",
+      "location": "Europe"
     },
     {
       "id": 8,
       "title": "1 Week Jungle Trek in Costa Rica",
       "price": "$1200",
-      "description": "Embark on an adventurous jungle trek in Costa Rica's lush rainforests."
+      "description": "Embark on an adventurous jungle trek in Costa Rica's lush rainforests.",
+      "location": "Americas"
     },
     {
       "id": 9,
       "title": "5 Day Historic Tour of Athens",
       "price": "$850",
-      "description": "Explore the ancient history of Athens and its iconic landmarks."
+      "description": "Explore the ancient history of Athens and its iconic landmarks.",
+      "location": "Europe"
     },
     {
       "id": 10,
       "title": "2 Week Cruise of Norwegian Fjords",
       "price": "$1400",
-      "description": "Sail through the stunning Norwegian fjords and witness their natural beauty."
+      "description": "Sail through the stunning Norwegian fjords and witness their natural beauty.",
+      "location": "Europe"
     }
   ]
 }
