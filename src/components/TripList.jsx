@@ -1,18 +1,11 @@
-import { useState, useEffect } from "react"
-import axios from "axios"
+import { useState } from "react"
 import TripCard from "./TripCard";
+import useFetch from "../hooks/axiosFetch";
 
 export default function TripList() {
 
-    const [tripData, setTripData] = useState([]);
     const [url, setUrl] = useState("http://localhost:3000/trips");
-
-    useEffect(() => {
-        axios.get(url)
-        .then((result) => {
-            setTripData(result.data)
-        })
-    }, [url])
+    const { data: tripData, loading } = useFetch(url)
 
     tripData.sort((a, b) => (a.id + Math.floor(Math.random() * 250)) - (b.id + Math.floor(Math.random() * 250)))
 
@@ -44,7 +37,7 @@ export default function TripList() {
             </div>
         </div>
         <div className="p-5 gap-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
-            {cards}
+            {loading ? <div className="flex h-full text-3xl font-bold justify-center">Loading trips...</div> : cards}
         </div>
     </>
   )
